@@ -1,4 +1,4 @@
-# Enterprise-netowk-lab
+# Enterprise-network-lab
 Cisco Packet Tracer network topology lab
 # Enterprise Network Infrastructure Lab
 
