@@ -1,6 +1,6 @@
 # Enterprise-network-lab
 Cisco Packet Tracer network topology lab
-# Enterprise Network Infrastructure Lab
+# Small Network Infrastructure Lab
 
 ## Overview
 This project simulates a small enterprise network built using Cisco Packet Tracer. The topology demonstrates centralized network management, dynamic IP allocation, and core network services.
